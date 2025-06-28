@@ -1,7 +1,7 @@
 {
   "name": "Нохчийн мотт",
-  "short_name": "noxçiyn-mott",
-  "start_url": "/",
+  "short_name": "Noxçiyn Mott",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
