@@ -1,0 +1,1 @@
+import{P as t}from"./ui-CMHPmd0S.js";import{d as a,e as o,w as r,o as s,g as p,t as n}from"./index-BH9MdJl8.js";const m=a({__name:"ui",setup(i){return(e,c)=>(s(),o(t,{title:"404"},{default:r(()=>[p("p",null,n(e.$t("pages.404.text")),1)]),_:1}))}});export{m as default};
